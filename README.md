@@ -1,4 +1,4 @@
 ## Decentralized platform for video publishing
 
-## 🔧 Project Diagram:
-![Project Diagram/Workflow](https://i.gyazo.com/9f03d7bc067d1013966b0cb901517567.png)
+## 🔧 Project Diagram
+![you](https://user-images.githubusercontent.com/80381144/140013341-10468219-7fc6-4bcf-8f60-a5fda4a4478e.png)
